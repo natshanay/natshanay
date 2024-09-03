@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @natshanay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi 👋, I'm Natnael Chala
+A passionate Full Stack Engineer.
 
-<!---
-natshanay/natshanay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🌱 I’m currently learning WEB3
+
+
+💬 Ask me about Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO
+
+📫 How to reach me CONNECT
+
+⚡ Fun fact I am a strong advocate for Node
